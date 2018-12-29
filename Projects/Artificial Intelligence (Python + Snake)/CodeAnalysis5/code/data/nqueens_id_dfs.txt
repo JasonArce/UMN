@@ -1,0 +1,67 @@
+
+-----------------------------------------------------------
+--- Solving NQueens with IDDFS Tree
+-----------------------------------------------------------
+--- Solving NQueens with IDDFS Tree size 4
+simple_list
+Total node count:  92
+Max frontier count:  7
+Max depth of tree:  4
+Steps:  42
+Time:  0.000846287002786994
+
+--- Solving NQueens with IDDFS Tree size 5
+simple_list
+Total node count:  357
+Max frontier count:  11
+Max depth of tree:  5
+Steps:  139
+Time:  0.002387749991612509
+
+--- Solving NQueens with IDDFS Tree size 6
+simple_list
+Total node count:  2468
+Max frontier count:  16
+Max depth of tree:  6
+Steps:  1042
+Time:  0.014814576003118418
+
+--- Solving NQueens with IDDFS Tree size 7
+simple_list
+Total node count:  14217
+Max frontier count:  22
+Max depth of tree:  7
+Steps:  5363
+Time:  0.06936710800800938
+
+--- Solving NQueens with IDDFS Tree size 8
+simple_list
+Total node count:  117335
+Max frontier count:  29
+Max depth of tree:  8
+Steps:  45206
+Time:  0.6293518409947865
+
+--- Solving NQueens with IDDFS Tree size 9
+simple_list
+Total node count:  1007320
+Max frontier count:  37
+Max depth of tree:  9
+Steps:  376089
+Time:  5.729122686010669
+
+--- Solving NQueens with IDDFS Tree size 10
+simple_list
+Total node count:  10024463
+Max frontier count:  46
+Max depth of tree:  10
+Steps:  3730159
+Time:  61.585471209997195
+
+--- Solving NQueens with IDDFS Tree size 11
+simple_list
+Total node count:  109761320
+Max frontier count:  56
+Max depth of tree:  11
+Steps:  40710859
+Time:  727.3001767640089

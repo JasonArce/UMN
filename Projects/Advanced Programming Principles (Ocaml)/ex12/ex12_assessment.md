@@ -1,0 +1,185 @@
+## Assessment for Exercise Set 12
+
+Run on November 28, 22:32:19 PM.
+
++ Pass: Change into directory "ex12".
+
+### Part 1: Thread order
+
++  _1_ / _1_ : Pass: Item 1 of list in refeval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 2 of list in refeval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 3 of list in refeval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 4 of list in refeval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 5 of list in refeval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 6 of list in refeval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 7 of list in refeval.md passes correct type and value test
+
+#### Subtotal: _7_ / _7_
+
+### Part 2: Starting threads
+
++  _1_ / _1_ : Pass: Item 1 of list in mutable_eval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 2 of list in mutable_eval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 3 of list in mutable_eval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 4 of list in mutable_eval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 5 of list in mutable_eval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 6 of list in mutable_eval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 7 of list in mutable_eval.md passes correct type and value test
+
++  _1_ / _1_ : Pass: Item 8 of list in mutable_eval.md passes correct type and value test
+
+#### Subtotal: _8_ / _8_
+
+### Part 3: Philosophers
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   let a = [|1; 2; 3 |] in rev_array a; a
+   ```
+   matches the pattern `[|3; 2; 1|]`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   let b = [||] in rev_array b; b
+   ```
+   matches the pattern `[||]`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   let c = [|"sweet"; "potatoes"|] in rev_array c; c
+   ```
+   matches the pattern `[|"potatoes"; "sweet"|]`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   zip_array [|1;2|] [|"a";"b"|]
+   ```
+   matches the pattern `[|(1, "a"); (2, "b")|]`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   zip_array [|true; false; true|] [|0;1;1|]
+   ```
+   matches the pattern `[|(true, 0); (false, 1); (true,1)|]`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   mlist_of_list []
+   ```
+   matches the pattern `Nil`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   mlist_of_list [1;2;3]
+   ```
+   matches the pattern `List {hd = 1; tl = List {hd = 2; tl = List {hd = 3; tl = Nil}}}`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   rev_mlist Nil
+   ```
+   matches the pattern `Nil`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   rev_mlist (List {hd = 1; tl = List {hd = 2; tl = Nil}})
+   ```
+   matches the pattern `List {hd = 2; tl = List {hd = 1; tl = Nil}}`.
+
+   
+
+
+
+
++  _1_ / _1_ : Pass: 
+Check that the result of evaluating
+   ```
+   append_m (List {hd = "mashed"; tl = List {hd = "potatoes"; tl = Nil}}) (List {hd = "gravy"; tl = Nil})
+   ```
+   matches the pattern `List {hd = "mashed"; tl = List {hd = "potatoes"; tl = List {hd = "gravy"; tl= Nil}}}`.
+
+   
+
+
+
+
++  _0_ / _1_ : Fail: 
+Check that the result of evaluating
+   ```
+   let l1 = List {hd = 1; tl = Nil} in let l2 = append_m l1 (List {hd = 2; tl = Nil}) in l1 = l2
+   ```
+   matches the pattern `true`.
+
+   
+
+
+   Your solution evaluated incorrectly and produced some part of the following:
+
+ ` ;;
+- : bool = false
+`
+
+
+#### Subtotal: _10_ / _11_
+

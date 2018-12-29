@@ -1,0 +1,79 @@
+--- Towers DFS Graph Simple Visited List size:  2
+simple_list
+Total node count:  17
+Max frontier count:  3
+Max depth of tree:  5
+Steps:  6
+Time:  0.00019126799998048227
+
+--- Towers DFS Graph Simple Visited List size:  3
+simple_list
+Total node count:  27
+Max frontier count:  5
+Max depth of tree:  9
+Steps:  9
+Time:  0.0002612629996292526
+
+--- Towers DFS Graph Simple Visited List size:  4
+simple_list
+Total node count:  125
+Max frontier count:  15
+Max depth of tree:  29
+Steps:  42
+Time:  0.0011954189994867193
+
+--- Towers DFS Graph Simple Visited List size:  5
+simple_list
+Total node count:  243
+Max frontier count:  41
+Max depth of tree:  81
+Steps:  81
+Time:  0.004100793999896268
+
+--- Towers DFS Graph Simple Visited List size:  6
+simple_list
+Total node count:  1097
+Max frontier count:  123
+Max depth of tree:  245
+Steps:  366
+Time:  0.020336617000793922
+
+--- Towers DFS Graph Simple Visited List size:  7
+simple_list
+Total node count:  2187
+Max frontier count:  365
+Max depth of tree:  729
+Steps:  729
+Time:  0.04810805600027379
+
+--- Towers DFS Graph Simple Visited List size:  8
+simple_list
+Total node count:  9845
+Max frontier count:  1095
+Max depth of tree:  2189
+Steps:  3282
+Time:  0.6053742860003695
+
+--- Towers DFS Graph Simple Visited List size:  9
+simple_list
+Total node count:  19683
+Max frontier count:  3281
+Max depth of tree:  6561
+Steps:  6561
+Time:  2.5415011679997406
+
+--- Towers DFS Graph Simple Visited List size:  10
+simple_list
+Total node count:  88577
+Max frontier count:  9843
+Max depth of tree:  19685
+Steps:  29526
+Time:  108.16161135699986
+
+--- Towers DFS Graph Simple Visited List size:  11
+simple_list
+Total node count:  177147
+Max frontier count:  29525
+Max depth of tree:  59049
+Steps:  59049
+Time:  620.6642365900007

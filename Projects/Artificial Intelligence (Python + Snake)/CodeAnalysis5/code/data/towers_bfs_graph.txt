@@ -1,0 +1,72 @@
+--- Towers BFS Graph Simple Visited List size:  2
+simple_list
+Total node count:  12
+Max frontier count:  2
+Max depth of tree:  3
+Steps:  4
+Time:  0.0003748719991563121
+
+--- Towers BFS Graph Simple Visited List size:  3
+simple_list
+Total node count:  54
+Max frontier count:  6
+Max depth of tree:  7
+Steps:  18
+Time:  0.0009813519991439534
+
+--- Towers BFS Graph Simple Visited List size:  4
+simple_list
+Total node count:  180
+Max frontier count:  10
+Max depth of tree:  15
+Steps:  60
+Time:  0.003301401000499027
+
+--- Towers BFS Graph Simple Visited List size:  5
+simple_list
+
+Total node count:  618
+Max frontier count:  26
+Max depth of tree:  31
+Steps:  206
+Time:  0.007777874998282641
+
+--- Towers BFS Graph Simple Visited List size:  6
+simple_list
+Total node count:  1932
+Max frontier count:  42
+Max depth of tree:  63
+Steps:  644
+Time:  0.03517545199429151
+
+--- Towers BFS Graph Simple Visited List size:  7
+simple_list
+Total node count:  6114
+Max frontier count:  106
+Max depth of tree:  127
+Steps:  2038
+Time:  0.2790886049915571
+
+--- Towers BFS Graph Simple Visited List size:  8
+simple_list
+Total node count:  18660
+Max frontier count:  170
+Max depth of tree:  255
+Steps:  6220
+Time:  1.7238070370076457
+
+--- Towers BFS Graph Simple Visited List size:  9
+simple_list
+Total node count:  57258
+Max frontier count:  426
+Max depth of tree:  511
+Steps:  19086
+Time:  17.84095082899148
+
+--- Towers BFS Graph Simple Visited List size:  10
+simple_list
+Total node count:  173052
+Max frontier count:  682
+Max depth of tree:  1023
+Steps:  57684
+Time:  304.5466647669964

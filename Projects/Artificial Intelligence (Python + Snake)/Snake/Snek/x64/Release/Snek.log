@@ -1,0 +1,30 @@
+﻿  Snek.cpp
+Snek.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(159): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snek.cpp(286): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Snek.cpp(287): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Snek.cpp(1378): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Snek.cpp(1379): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Snek.cpp(1431): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Snek.cpp(1454): warning C4101: 'event1': unreferenced local variable
+  Generating code
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(874): warning C4715: 'gameBoard::dynamic_a_Star_ff': not all control paths return a value
+  6 of 831 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Snek.vcxproj -> C:\Users\Xenon\Documents\Visual Studio 2015\Projects\Snek\x64\Release\Snek.exe
+  Snek.vcxproj -> C:\Users\Xenon\Documents\Visual Studio 2015\Projects\Snek\x64\Release\Snek.pdb (Full PDB)

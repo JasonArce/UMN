@@ -1,0 +1,291 @@
+Comparing size = 20
+----------------------------------------------
+alpha=.98,
+start=600000,
+end=.25,
+iterations=500
+----------------------------------------------
+-----------------------------------------------------------
+--- Solving NQUEENS swap permute
+-----------------------------------------------------------
+--- Nqueens swap permute size:  20
+state:  [18, 14, 17, 4, 11, 12, 7, 10, 2, 3, 13, 16, 19, 0, 5, 1, 8, 9, 6, 15]
+Value  12
+Total iterations:  364001
+Moves to better states:  181213
+Moves to worse states:  124505
+Did not move to neighbor:  58283
+Steps:  364000
+Time:  18.23992156999884
+
+--- Nqueens swap permute size:  20
+state:  [17, 0, 14, 10, 15, 5, 4, 2, 19, 16, 9, 12, 11, 6, 8, 7, 1, 3, 13, 18]
+Value  16
+Total iterations:  364001
+Moves to better states:  181957
+Moves to worse states:  123836
+Did not move to neighbor:  58208
+Steps:  364000
+Time:  18.377145827995264
+
+--- Nqueens swap permute size:  20
+state:  [0, 18, 16, 8, 15, 1, 13, 12, 2, 14, 4, 5, 10, 3, 9, 6, 11, 7, 19, 17]
+Value  17
+Total iterations:  364001
+Moves to better states:  181822
+Moves to worse states:  123711
+Did not move to neighbor:  58468
+Steps:  364000
+Time:  18.353412088996265
+
+--- Nqueens swap permute size:  20
+state:  [15, 7, 9, 14, 2, 10, 16, 18, 12, 3, 11, 6, 19, 5, 8, 13, 1, 0, 4, 17]
+Value  16
+Total iterations:  364001
+Moves to better states:  181799
+Moves to worse states:  123571
+Did not move to neighbor:  58631
+Steps:  364000
+Time:  18.28858945099637
+
+
+--- Nqueens swap permute size:  20
+state:  [18, 15, 6, 11, 1, 9, 7, 3, 8, 13, 10, 4, 5, 12, 0, 14, 16, 17, 19, 2]
+Value  16
+Total iterations:  364001
+Moves to better states:  181868
+Moves to worse states:  123718
+Did not move to neighbor:  58415
+Steps:  364000
+Time:  18.292816219996894
+
+------HIGHEST SOLVE-------
+--- Nqueens swap permute size:  14
+state:  [9, 5, 8, 2, 7, 13, 11, 1, 6, 10, 12, 4, 0, 3]
+Value  0
+Total iterations:  80005
+Moves to better states:  47283
+Moves to worse states:  32717
+Did not move to neighbor:  5
+Steps:  80004
+Time:  2.3049033699935535
+
+
+
+
+
+----------------------------------------------
+alpha=.98,
+start=600000,
+end=.25,
+iterations=500 -> 2000
+----------------------------------------------
+--- Nqueens swap permute size:  20
+state:  [6, 4, 18, 3, 12, 10, 9, 1, 13, 19, 0, 7, 15, 17, 11, 5, 14, 16, 2, 8]
+Value  12
+Total iterations:  1456001
+Moves to better states:  727521
+Moves to worse states:  495025
+Did not move to neighbor:  233455
+Steps:  1456000
+Time:  72.86820448399521
+
+--- Nqueens swap permute size:  20
+state:  [9, 1, 13, 15, 6, 11, 5, 0, 18, 4, 14, 19, 2, 10, 8, 16, 12, 3, 7, 17]
+Value  0
+Total iterations:  188998
+Moves to better states:  111455
+Moves to worse states:  77541
+Did not move to neighbor:  2
+Steps:  188997
+Time:  9.779811202999554
+
+
+--- Nqueens swap permute size:  20
+state:  [7, 10, 13, 5, 15, 0, 3, 18, 9, 17, 19, 1, 2, 6, 14, 4, 8, 11, 16, 12]
+Value  10
+Total iterations:  1456001
+Moves to better states:  727260
+Moves to worse states:  495528
+Did not move to neighbor:  233213
+Steps:  1456000
+Time:  72.89422989499872
+
+--- Nqueens swap permute size:  20
+state:  [16, 11, 19, 0, 9, 15, 8, 10, 4, 13, 18, 2, 5, 14, 7, 1, 3, 6, 12, 17]
+Value  7
+Total iterations:  1456001
+Moves to better states:  728184
+Moves to worse states:  495059
+Did not move to neighbor:  232758
+Steps:  1456000
+Time:  73.43014734699682
+
+--- Nqueens swap permute size:  20
+state:  [17, 7, 15, 5, 10, 2, 16, 12, 19, 4, 9, 8, 3, 11, 14, 0, 1, 13, 18, 6]
+Value  12
+Total iterations:  1456001
+Moves to better states:  727925
+Moves to worse states:  494666
+Did not move to neighbor:  233410
+Steps:  1456000
+Time:  72.96056618000148
+
+----HIGHEST SOLVE---------- Nqueens swap permute size:  15
+state:  [3, 5, 14, 11, 9, 6, 12, 2, 4, 8, 0, 13, 10, 7, 1]
+Value  0
+Total iterations:  431948
+Moves to better states:  254780
+Moves to worse states:  177152
+Did not move to neighbor:  16
+Steps:  431947
+Time:  13.771229688994936
+
+
+
+----------------------------------------------
+alpha=.98 -> 0.3
+start=600000,
+end=.25,
+iterations=500
+---------------------------------------------- 
+--- Nqueens swap permute size:  20
+state:  [19, 0, 3, 15, 6, 9, 16, 13, 8, 1, 7, 14, 17, 11, 12, 18, 2, 10, 4, 5]
+Value  9
+Total iterations:  6501
+Moves to better states:  3219
+Moves to worse states:  2157
+Did not move to neighbor:  1125
+Steps:  6500
+Time:  0.3313537149952026
+
+--- Nqueens swap permute size:  20
+state:  [16, 13, 12, 11, 7, 4, 1, 5, 2, 17, 18, 0, 14, 8, 10, 6, 19, 9, 15, 3]
+Value  13
+Total iterations:  6501
+Moves to better states:  3180
+Moves to worse states:  2134
+Did not move to neighbor:  1187
+Steps:  6500
+Time:  0.3269430289947195
+
+--- Nqueens swap permute size:  20
+state:  [4, 5, 7, 13, 9, 0, 12, 1, 6, 15, 18, 2, 8, 11, 17, 3, 16, 19, 10, 14]
+Value  9
+Total iterations:  6501
+Moves to better states:  3203
+Moves to worse states:  2224
+Did not move to neighbor:  1074
+Steps:  6500
+Time:  0.32593640898994636
+
+--- Nqueens swap permute size:  20
+state:  [19, 10, 16, 8, 7, 5, 2, 9, 14, 13, 4, 18, 6, 3, 1, 11, 17, 15, 0, 12]
+Value  10
+Total iterations:  6501
+Moves to better states:  3169
+Moves to worse states:  2213
+Did not move to neighbor:  1119
+Steps:  6500
+Time:  0.3258942440006649
+
+--- Nqueens swap permute size:  20
+state:  [13, 15, 3, 4, 0, 5, 10, 16, 18, 12, 8, 2, 17, 11, 9, 7, 1, 19, 14, 6]
+Value  6
+Total iterations:  6501
+Moves to better states:  3211
+Moves to worse states:  2205
+Did not move to neighbor:  1085
+Steps:  6500
+Time:  0.32542831099999603
+
+
+---HIGHEST SOLVE
+--- Nqueens swap permute size:  10
+state:  [0, 8, 6, 2, 7, 1, 4, 9, 5, 3]
+Value  0
+Total iterations:  1516
+Moves to better states:  896
+Moves to worse states:  618
+Did not move to neighbor:  2
+Steps:  1515
+Time:  0.027900383996893652
+
+----------------------------------------------
+alpha=.98
+start=600000 -> 10000
+end=.25,
+iterations=500
+---------------------------------------------- 
+
+-----------------------------------------------------------
+--- Solving NQUEENS swap permute
+-----------------------------------------------------------
+--- Nqueens swap permute size:  20
+state:  [16, 7, 3, 4, 19, 11, 15, 13, 2, 12, 18, 10, 9, 0, 17, 1, 8, 6, 14, 5]
+Value  17
+Total iterations:  262501
+Moves to better states:  121806
+Moves to worse states:  82120
+Did not move to neighbor:  58575
+Steps:  262500
+Time:  13.1649032360001
+
+--- Nqueens swap permute size:  20
+state:  [0, 2, 11, 8, 4, 14, 18, 19, 12, 16, 10, 17, 15, 6, 3, 5, 13, 1, 9, 7]
+Value  11
+Total iterations:  262501
+Moves to better states:  122036
+Moves to worse states:  81977
+Did not move to neighbor:  58488
+Steps:  262500
+Time:  13.141870525010745
+
+--- Nqueens swap permute size:  20
+state:  [1, 6, 19, 0, 13, 16, 3, 12, 4, 9, 15, 14, 2, 11, 7, 8, 10, 17, 5, 18]
+Value  11
+Total iterations:  262501
+Moves to better states:  122013
+Moves to worse states:  82286
+Did not move to neighbor:  58202
+Steps:  262500
+Time:  13.150053917997866
+
+--- Nqueens swap permute size:  20
+state:  [19, 0, 14, 11, 9, 18, 4, 15, 12, 8, 5, 17, 3, 6, 7, 2, 13, 16, 1, 10]
+Value  12
+Total iterations:  262501
+Moves to better states:  122335
+Moves to worse states:  82011
+Did not move to neighbor:  58155
+Steps:  262500
+Time:  13.26000040100189
+
+
+--- Nqueens swap permute size:  20
+state:  [14, 0, 12, 8, 10, 13, 5, 1, 17, 2, 15, 19, 11, 6, 7, 16, 9, 3, 18, 4]
+Value  21
+Total iterations:  262501
+Moves to better states:  122497
+Moves to worse states:  82203
+Did not move to neighbor:  57801
+Steps:  262500
+Time:  13.147835615003714
+
+---HIGHEST SOLVE
+--- Nqueens swap permute size:  14
+state:  [2, 4, 11, 8, 5, 12, 1, 13, 7, 9, 0, 3, 10, 6]
+Value  0
+Total iterations:  167704
+Moves to better states:  97987
+Moves to worse states:  67794
+Did not move to neighbor:  1923
+Steps:  167703
+Time:  4.794043304005754
+
+
+
+
+
+
+

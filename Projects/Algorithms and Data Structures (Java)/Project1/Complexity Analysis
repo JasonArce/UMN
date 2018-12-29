@@ -1,0 +1,68 @@
+arcex012 Jason Arce
+
+
+add Method:
+    Arrays: O(1)
+    Linked Lists: O(n) where n is the number of items in the list.
+    Why: The way the array add is written, the contact will be added to current ptr of the array, no shifting will be done. The 	linked list on the the other hand has to iterate to the end of the list which is O(n).
+
+
+find Method:
+    Arrays: O(n) where n is the number of items in the list.
+    Linked Lists: O(n) where n is the number of items in the list.
+    Why: Both data structures must look at each index in lists and iterates throughout the whole thing which is O(n).
+
+
+remove Method:
+    Arrays: O(n)
+    Linked Lists: O(n)
+    Why: Worst case scenario, arrays need to shift all other indices over. While the worst case scenario for
+        linked lists is that they need to iterate through the list to remove a contact and stitch the list back
+        together.
+
+
+write Method:
+    Arrays: O(n) where n is the number of items in the list.
+    Linked Lists: O(n) where n is the number of items in the list.
+    Why: Both data structures use O(n) because they both use a simple singular for loop.
+
+
+read Method:
+    Arrays: O(n) where n is the number of items in the list.
+    Linked Lists: O(n) where n is the number of items in the list.
+    Why: Both data structures use O(n) because they both use a simple singular for loop.
+
+
+getCurrent Method:
+    Arrays: O(1)
+    Linked Lists: O(n) where n is the number of items in the list.
+    Why: Arrays use O(1) because they go directly to the given ptr index. Linked Lists use O(n) because they have to iterate 	all the way through the list to get to the ptr index.
+
+
+get(i) Method:
+    Arrays: O(1)
+    Linked Lists: O(n) where n is the number of items in the list.
+    Why: Arrays use O(1) because they go directly to the given ptr index. Linked Lists use O(n) because they have to iterate 	all the way through the list to get to the ptr index.
+
+
+next Method:
+    Arrays: O(1)
+    Linked Lists: O(n) where n is the number of items in the list.
+    Why: Both data structures iterate through their respective data structures for the next index. Despite the
+        use of the while loop, it is unneeded. The method just uses multiple comparisons using if statements
+         which is O(1).
+
+
+previous Method:
+    Arrays: O(1)
+    Linked Lists: O(n) where n is the number of items in the list.
+    Why: Both data structures iterate through their respective data structures for the next index. Despite the use of the while 
+	loop, it is unneeded. The method just uses multiple comparisons using if statements which is O(1).
+
+
+sort Method:
+    Arrays: O(n^2)
+    Linked Lists: O(n^2)
+    Why: The linked list most closely resembles the bubble sort, which has a worst case time complexity of
+         O(n^2). The array uses a bubble sort which also has a worst case time complexity of O(n^2).
+

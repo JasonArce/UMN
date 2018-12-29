@@ -1,0 +1,5 @@
+Predictions:
+
+i. I predict that an error will occur as -1 is not greater than 0.
+
+ii. I predict that it will return -1.

@@ -1,0 +1,23 @@
+Random move
+Try: 1000 Eaten: 6 Moves: 457 Eaten/Moves: 0.0131291
+Total_Eaten: 3324 Total_Moves: 395777 Avg Moves/Eaten: 119.066 Avg Eaten/Trial: 3.324 Avg Moves/Trial: 395.777
+
+Super Loop
+Try: 1000 Eaten: 97 Moves: 2534 Eaten/Moves: 0.0382794
+Total_Eaten: 97000 Total_Moves: 2.43239e+06 Avg Moves/Eaten: 25.0762 Avg Eaten/Trial: 97 Avg Moves/Trial: 2.43e+03
+
+Greedy
+Try: 1000 Eaten: 36 Moves: 409 Eaten/Moves: 0.0880196
+Total_Eaten: 18889 Total_Moves: 156133 Avg Moves/Eaten: 8.26582 Avg Eaten/Trial: 18.889 Avg Moves/Trial: 156.133
+
+A*
+Try: 1000 Eaten: 13 Moves: 90 Eaten/Moves: 0.144444
+Total_Eaten: 27455 Total_Moves: 225804 Avg Moves/Eaten: 8.22451 Avg Eaten/Trial: 27.455 Avg Moves/Trial: 225.804
+
+Dynamic A*
+Try: 1000 Eaten: 31 Moves: 212 Eaten/Moves: 0.146226
+Total_Eaten: 30263 Total_Moves: 251766 Avg Moves/Eaten: 8.31927 Avg Eaten/Trial: 30.263 Avg Moves/Trial: 251.766
+
+Dynamic A* with foward checking
+Try: 1000 Eaten: 75 Moves: 931 Eaten/Moves: 0.0805585
+Total_Eaten: 63894 Total_Moves: 830750 Avg Moves/Eaten: 13.0020 Avg Eaten/Trial: 63.89 Avg Moves/Trial: 830.75

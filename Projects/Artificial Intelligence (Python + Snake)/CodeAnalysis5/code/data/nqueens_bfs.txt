@@ -1,0 +1,66 @@
+-----------------------------------------------------------
+--- Solving NQueens with BFS Tree
+-----------------------------------------------------------
+--- Solving NQueens with BFS Tree size 4
+advanced_list
+Total node count:  52
+Max frontier count:  24
+Max depth of tree:  4
+Steps:  28
+Time:  0.0004701710004155757
+
+--- Solving NQueens with BFS Tree size 5
+advanced_list
+Total node count:  217
+Max frontier count:  120
+Max depth of tree:  5
+Steps:  97
+Time:  0.0016951689995039487
+
+--- Solving NQueens with BFS Tree size 6
+advanced_list
+Total node count:  1424
+Max frontier count:  720
+Max depth of tree:  6
+Steps:  704
+Time:  0.010619902000144066
+
+--- Solving NQueens with BFS Tree size 7
+advanced_list
+Total node count:  8847
+Max frontier count:  5040
+Max depth of tree:  7
+Steps:  3807
+Time:  0.04836383899964858
+
+--- Solving NQueens with BFS Tree size 8
+advanced_list
+Total node count:  72124
+Max frontier count:  40320
+Max depth of tree:  8
+Steps:  31804
+Time:  0.4539333959992291
+
+--- Solving NQueens with BFS Tree size 9
+advanced_list
+Total node count:  631216
+Max frontier count:  362880
+Max depth of tree:  9
+Steps:  268336
+Time:  4.556658350000362
+
+--- Solving NQueens with BFS Tree size 10
+advanced_list
+Total node count:  6294288
+Max frontier count:  3628800
+Max depth of tree:  10
+Steps:  2665488
+Time:  48.520302439999796
+
+--- Solving NQueens with BFS Tree size 11
+advanced_list
+Total node count:  69050433
+Max frontier count:  39916800
+Max depth of tree:  11
+Steps:  29133633
+Time:  558.773870477

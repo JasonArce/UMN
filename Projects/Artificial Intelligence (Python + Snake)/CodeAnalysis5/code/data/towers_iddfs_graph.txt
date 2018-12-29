@@ -1,0 +1,66 @@
+-----------------------------------------------------------
+--- Solving Towers with ID_DFS Graph using visited list
+-----------------------------------------------------------
+--- Towers ID_DFS Graph Visited List size:  1
+simple_list
+Total node count:  3
+Max frontier count:  1
+Max depth of tree:  1
+Steps:  1
+Time:  0.00010382800246588886
+
+--- Towers ID_DFS Graph Visited List size:  2
+simple_list
+Total node count:  26
+Max frontier count:  3
+Max depth of tree:  3
+Steps:  9
+Time:  0.0003664499963633716
+
+--- Towers ID_DFS Graph Visited List size:  3
+simple_list
+Total node count:  145
+Max frontier count:  4
+Max depth of tree:  7
+Steps:  50
+Time:  0.0019259950058767572
+
+--- Towers ID_DFS Graph Visited List size:  4
+simple_list
+Total node count:  1478
+Max frontier count:  10
+Max depth of tree:  19
+Steps:  499
+Time:  0.015207371994620189
+
+--- Towers ID_DFS Graph Visited List size:  5
+simple_list
+Total node count:  9530
+Max frontier count:  23
+Max depth of tree:  45
+Steps:  3191
+Time:  0.09088913799496368
+
+--- Towers ID_DFS Graph Visited List size:  6
+simple_list
+Total node count:  96383
+Max frontier count:  66
+Max depth of tree:  131
+Steps:  32172
+Time:  1.2468033440090949
+
+--- Towers ID_DFS Graph Visited List size:  7
+simple_list
+Total node count:  835428
+Max frontier count:  186
+Max depth of tree:  371
+Steps:  278599
+Time:  18.526781099004438
+
+--- Towers ID_DFS Graph Visited List size:  8
+simple_list
+Total node count:  7670651
+Max frontier count:  554
+Max depth of tree:  1107
+Steps:  2557254
+Time:  376.88062337400333

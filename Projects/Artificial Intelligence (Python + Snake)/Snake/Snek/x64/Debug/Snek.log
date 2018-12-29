@@ -1,0 +1,27 @@
+﻿  Snek.cpp
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(138): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(143): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(275): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(276): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(1363): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(1364): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(1416): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(1437): warning C4101: 'event': unreferenced local variable
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(673): warning C4715: 'gameBoard::aStar': not all control paths return a value
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(760): warning C4715: 'gameBoard::dynamic_a_Star': not all control paths return a value
+c:\users\xenon\documents\visual studio 2015\projects\snek\snek\snek.cpp(859): warning C4715: 'gameBoard::dynamic_a_Star_ff': not all control paths return a value
+  Snek.vcxproj -> C:\Users\Xenon\Documents\Visual Studio 2015\Projects\Snek\x64\Debug\Snek.exe
+  Snek.vcxproj -> C:\Users\Xenon\Documents\Visual Studio 2015\Projects\Snek\x64\Debug\Snek.pdb (Full PDB)
